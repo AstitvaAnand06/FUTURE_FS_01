@@ -143,7 +143,7 @@ const Contact = () => {
         </a>
         {/* Resume */}
         <a 
-        href='https://drive.google.com/file/d/16gGt8AXXVspkoqeAUhCMTvClWkyNlLlt/view?usp=sharing'
+        href='https://drive.google.com/file/d/16gGt8AXXVspkoqeAUhCMTvClWkyNlLlt/view?usp=drive_link'
         target="_blank"
         rel="noopener noreferrer"
         >

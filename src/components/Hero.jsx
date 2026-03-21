@@ -24,7 +24,7 @@ const Hero = () => {
                         AI/ML enthusiast and Full-Stack Developer who loves turning ideas into smart, user-friendly applications. Focused on building efficient web solutions and exploring the power of machine learning.
                     </p>
                     <div className="flex space-x-4">
-                        <a href="#projects" className='px-6 py-3 bg-purple rounded-lg font-medium hover:bg-purple-700 transition duration-300'>View Work</a>
+                        <a href="#project" className='px-6 py-3 bg-purple rounded-lg font-medium hover:bg-purple-700 transition duration-300'>View Work</a>
                         <a href="#contact" className='px-6 py-3 border border-purple rounded-lg font-medium hover:bg-purple/20 transition decoration-purple-300 '>Contact Me</a>
                     </div>
                 </div>
