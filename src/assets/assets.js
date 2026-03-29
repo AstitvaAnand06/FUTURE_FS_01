@@ -138,12 +138,12 @@ export const projects = [
 
 export const workData = [
   {
-    role: "Python Full Stack Developer Intern",
-    company: "EduSkills",
-    duration: "2024(Oct-Dec)",
+    role: "Full Stack Developer Intern",
+    company: "Future Interns",
+    duration: "2026(March)",
     description:
-      "Worked with Python, frontend technologies, and databases to develop scalable and responsive full-stack solutions.",
-    color: "purple"
+      "Developed three full-stack web applications including a Personal Portfolio, a Live Local Business Website, and a Mini CRM system.",
+    color: "blue"
   },
   {
     role: "Machine Learning Intern",
@@ -154,11 +154,11 @@ export const workData = [
     color: "pink"
   },
   {
-    role: "Full Stack Developer Intern",
-    company: "Future Interns",
-    duration: "2026(March)",
+    role: "Python Full Stack Developer Intern",
+    company: "EduSkills",
+    duration: "2024(Oct-Dec)",
     description:
-      "Developed three full-stack web applications including a Personal Portfolio, a Live Local Business Website, and a Mini CRM system.",
-    color: "blue"
+      "Worked with Python, frontend technologies, and databases to develop scalable and responsive full-stack solutions.",
+    color: "purple"
   }
 ];
