@@ -1,7 +1,7 @@
 import { desc } from 'framer-motion/client'
 import React from 'react'
 
-const ProjectCard = ({title,description,image,tech}) => {
+const ProjectCard = ({title,description,image,tech,code}) => {
   return (
     <div className='bg-dark-300 rounded-2xl 
     overflow-hidden hover:-translate 
@@ -31,11 +31,10 @@ const ProjectCard = ({title,description,image,tech}) => {
                 transition duration-300'>
                     View Demo
                 </a>
-                <a href='#' className='flex-1 text-center px-4
-                py-2 border border-purple font-medium
-                rounded-lg hover:bg-purple/20
-                transition duration-300'>
-                    Code
+                <a href={code} target="_blank" rel="noopener noreferrer" 
+                className='flex-1 text-center px-4 py-2 border border-purple font-medium
+                rounded-lg hover:bg-purple/20 transition duration-300'>
+                Code
                 </a>
             </div>
             </div>
