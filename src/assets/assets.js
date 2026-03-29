@@ -86,7 +86,7 @@ export const projects = [
     tech: ["Python", "ScikitLearn", "Pandas", "Tkinter"],
     icons: [FaReact, FaNodeJs, FaDatabase , FaStripe],
     demo: "#",
-    code: "#",
+    code: "https://github.com/AstitvaAnand06/CODSOFT_1.git",
   },
   {
     title: "Customer Churn Prediction Model",
@@ -95,7 +95,7 @@ export const projects = [
     tech: ["ScikitLearn", "Python", "Tkinter", "Pandas"],
     icons: [FaVuejs, FaFire, FaCloud , FaDatabase],
     demo: "#",
-    code: "#",
+    code: "https://github.com/AstitvaAnand06/CODSOFT_3.git",
   },
   {
     title: "Spam SMS Detection Model",
@@ -104,7 +104,7 @@ export const projects = [
     tech: ["SVC", "NavieBayes", "Logistic Regression", "Tkinter"],
     icons: [FaReact, FaDatabase],
     demo: "#",
-    code: "#",
+    code: "https://github.com/AstitvaAnand06/-CODSOFT_4.git",
   },
   {
     title: "Portfolio Website",
@@ -113,16 +113,16 @@ export const projects = [
     tech: ["Next.js", "Tailwind CSS", "Framer Motion", "Markdown"],
     icons: [FaReact, FaCloud],
     demo: "#",
-    code: "#",
+    code: "https://github.com/AstitvaAnand06/FUTURE_FS_01.git",
   },
   {
-    title: "Chat App",
+    title: "Flowers Commerical Website",
     description: "A real-time chat application with group messaging, emojis, and file sharing.",
     image: projectImg5,
-    tech: ["Socket.IO", "React", "Node.js", "MongoDB"],
+    tech: ["Html", "CSS", "JS"],
     icons: [FaReact, FaNodeJs, FaDatabase ],
-    demo: "#",
-    code: "#",
+    demo: "https://flowernest.vercel.app/",
+    code: "https://github.com/AstitvaAnand06/FUTURE_FS_03.git",
   },
   {
     title: "AI Image Generator",
